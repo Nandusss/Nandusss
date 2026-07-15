@@ -12,7 +12,7 @@ I'm a passionate **Backend Engineer** with a strong focus on designing, auditing
 *   **Frontend:** TypeScript, React, JavaScript, HTML, CSS
 *   **Databases & Performance:** PostgreSQL, MongoDB, MS SQL Server, Redis, SQL Profiling & Normalization
 *   **DevOps, Cloud & Tools:** AWS (EC2, EMR), Docker, Jenkins CI/CD, Git/GitHub, Jira, Agile/Scrum
-*   **Methodologies:** SOLID, DRY, Interface-Based Design, Dependency Injection, Test-Driven Development (TDD)
+*   **Methodologies:** Interface-Based Design, Dependency Injection, Test-Driven Development (TDD)
 
 ---
 
