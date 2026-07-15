@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nandagopan Dilip
 
-I'm a passionate **Backend Engineer** with a strong focus on designing, auditing, and optimizing highly reliable APIs, databases, and microservices. I love building secure and scalable systems, writing clean and decoupled code utilizing SOLID/DRY design patterns, and tuning database performance to solve complex backend challenges.
+I'm a passionate **Backend Engineer** with a strong focus on designing, auditing, and optimizing highly reliable APIs, databases, and microservices. I love building secure and scalable systems, writing clean and decoupled code, and tuning database performance to solve complex backend challenges.
 
 🚀 **[Visit my portfolio](https://nandusss.github.io/portfolio-website/)**
 
@@ -12,14 +12,14 @@ I'm a passionate **Backend Engineer** with a strong focus on designing, auditing
 *   **Frontend:** TypeScript, React, JavaScript, HTML, CSS
 *   **Databases & Performance:** PostgreSQL, MongoDB, MS SQL Server, Redis, SQL Profiling & Normalization
 *   **DevOps, Cloud & Tools:** AWS (EC2, EMR), Docker, Jenkins CI/CD, Git/GitHub, Jira, Agile/Scrum
-*   **Methodologies:** SOLID, DRY, Interface-Based Design, Dependency Injection, Test-Driven Development (TDD)
+*   **Methodologies:** Interface-Based Design, Dependency Injection, Test-Driven Development (TDD)
 
 ---
 
 ## 💡 Projects I'm Proud Of
-
-*   **Bot Zero X - .NET 6 Proof of Concept (PoC):** An asynchronous, event-driven Discord bot engineered in C# and .NET 6 using clean bootstrap architecture, native Microsoft dependency injection, and secure dot-env configuration.
-*   **CentChat:** A clean communication web application built with a Node.js/Express.js backend, a React frontend, and an integrated Python-built NLP model for smart user interactions.
+*   **[AI Capstone Project](https://github.com/AI-capstone-project):** A production-ready, full-stack AI platform designed for virtual clothing try-on using pictures. It features a responsive, modern frontend, a highly scalable backend architecture, and a production-configured MongoDB database—utilizing secure data pipelines, optimized schemas, and seamless end-to-end deployment to handle production workloads.
+*   **[Bot Zero X - .NET 6 Proof of Concept (PoC)](https://github.com/Nandusss/bot-0x):** An asynchronous, event-driven Discord bot engineered in C# and .NET 6 using clean bootstrap architecture, native Microsoft dependency injection, and secure dot-env configuration.
+*   **[CentChat](https://github.com/Nandusss/CentBotAWS):** A clean communication web application built with a Node.js/Express.js backend, a React frontend, and an integrated Python-built NLP model for smart user interactions.
 
 ---
 
