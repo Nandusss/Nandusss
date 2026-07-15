@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nandagopan Dilip
 
-I'm a passionate **Backend Engineer** with a strong focus on designing, auditing, and optimizing highly reliable APIs, databases, and microservices. I love building secure and scalable systems, writing clean and decoupled code utilizing SOLID/DRY design patterns, and tuning database performance to solve complex backend challenges.
+I'm a passionate **Backend Engineer** with a strong focus on designing, auditing, and optimizing highly reliable APIs, databases, and microservices. I love building secure and scalable systems, writing clean and decoupled code, and tuning database performance to solve complex backend challenges.
 
 🚀 **[Visit my portfolio](https://nandusss.github.io/portfolio-website/)**
 
