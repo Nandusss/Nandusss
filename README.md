@@ -17,9 +17,9 @@ I'm a passionate **Backend Engineer** with a strong focus on designing, auditing
 ---
 
 ## 💡 Projects I'm Proud Of
-
-*   **Bot Zero X - .NET 6 Proof of Concept (PoC):** An asynchronous, event-driven Discord bot engineered in C# and .NET 6 using clean bootstrap architecture, native Microsoft dependency injection, and secure dot-env configuration.
-*   **CentChat:** A clean communication web application built with a Node.js/Express.js backend, a React frontend, and an integrated Python-built NLP model for smart user interactions.
+**[AI Capstone Project](https://github.com/AI-capstone-project):** A production-ready, full-stack AI platform designed for virtual clothing try-on using pictures. It features a responsive, modern frontend, a highly scalable backend architecture, and a production-configured MongoDB database—utilizing secure data pipelines, optimized schemas, and seamless end-to-end deployment to handle production workloads.
+*   **[Bot Zero X - .NET 6 Proof of Concept (PoC)](https://github.com/Nandusss/bot-0x):** An asynchronous, event-driven Discord bot engineered in C# and .NET 6 using clean bootstrap architecture, native Microsoft dependency injection, and secure dot-env configuration.
+*   **[CentChat](https://github.com/Nandusss/CentBotAWS):** A clean communication web application built with a Node.js/Express.js backend, a React frontend, and an integrated Python-built NLP model for smart user interactions.
 
 ---
 
