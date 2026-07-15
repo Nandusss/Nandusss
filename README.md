@@ -1,7 +1,7 @@
 # 💻 Nandagopan Dilip
 > **Backend Engineer | Performance Optimizer | Architecture Enthusiast**
 
-Welcome to my digital space! I specialize in designing, auditing, and optimizing highly reliable backend systems and database layers. I love writing clean, decoupled code using SOLID/DRY design principles, designing seamless APIs, and squeezing every drop of efficiency out of relational database queries.
+Welcome to my digital space! I specialize in designing, auditing, and optimizing highly reliable backend systems and database layers. I love writing clean and decoupled code, designing seamless APIs, and squeezing every drop of efficiency out of relational database queries.
 
 🌐 **[Explore My Portfolio](https://nandusss.github.io/portfolio-website/)**
 
